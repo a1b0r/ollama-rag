@@ -1,0 +1,6 @@
+chromadb 
+gradio
+langchain-community
+langchain_core
+langchain
+tiktoken
